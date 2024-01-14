@@ -1,4 +1,4 @@
-[![Social banner forDineshdjj](https://github.com/Dineshdjj/Dineshdjj/blob/main/120126-Will-Smith-Quote-The-road-to-success-is-through-commitment.jpg)]
+![Social banner forDineshdjj](https://github.com/Dineshdjj/Dineshdjj/blob/main/120126-Will-Smith-Quote-The-road-to-success-is-through-commitment.jpg)
 <h1 align='center'> Hi! :wave:</h1>
 
 <!--Night Owl image-->
@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://www.stickpng.com/img/comics-and-fantasy/goku/goku-face)" width="30"/> ɪ'ᴍ Dinesh! 
+# <img src="[https://www.stickpng.com/img/comics-and-fantasy/goku/goku-face]" width="30"/> ɪ'ᴍ Dinesh! 
 passionate(Developer / Programmer)
 <br /> 
 
