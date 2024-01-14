@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="![image](https://github.com/Dineshdjj/Dineshdjj/assets/94304959/2e5a4d4f-f083-4d76-8a47-8e681c7a9056)
+  <img align="right" width="40%" src="https://github.com/Dineshdjj/Dineshdjj/assets/94304959/2e5a4d4f-f083-4d76-8a47-8e681c7a9056
 ">
 </div>
 
