@@ -3,11 +3,12 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="![image](https://github.com/Dineshdjj/Dineshdjj/assets/94304959/2e5a4d4f-f083-4d76-8a47-8e681c7a9056)
+">
 </div>
 
 <!--Header Name-->
-# <img src="[https://www.stickpng.com/img/comics-and-fantasy/goku/goku-face]" width="30"/> ɪ'ᴍ Dinesh! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Dinesh! 
 passionate(Developer / Programmer)
 <br /> 
 
