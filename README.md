@@ -1,21 +1,63 @@
-# 💫 About Me:
-<br><br>I'm passionate about web development .<br><br>-I'm currently diving deep into the realms of machine learning and exploring the following areas:<br>- Developing and deploying machine learning models<br>- Working on real-world projects that combine web development and machine learning<br> -enjoy creating awesome things on the internet.<br> -Feel free to explore, contribute, and share your thoughts!<br>
+[![Social banner for SARAN-SMART-2004](https://github.com/SARAN-SMART-2004/SARAN-SMART-2004/blob/main/assets/Banner.jpeg)](https://saran-smart-2004.github.io/Personal-Portfolio/)
+<h1 align='center'> Hi! :wave:</h1>
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Dinesh! 
+passionate(Developer / Programmer)
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer Enthusiast with a huge love for Python,java. </p>
+
+- ✨ learner of technology:)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- ✍ currently diving deep into the realms of machine learning. 
+- ❤Feel free to reach out if you want to discuss web development, machine learning, or anything in between.
+- 💻 Happy coding and learning! 🚀
+<!--End Intro-->
+
+## :computer: Technologies I Love
+* Python
+* Machine Learning
+* Data science
+* Frontend and Backend Web Development
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dinez_30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinesh-r-7b0b9a252/) 
+      
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,c,java,js,html,css,bootstrap,flask,django,mongodb,git,vscod,jquery,github,mysql,sqlite&perline=10"  />
+</p>
+<br />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dineshdjj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dineshdjj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshdjj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Dineshdjj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--Contact Section--> 
+<p align='center'>For enquiries, reach out or</p>
+
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/Dinez-JD/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:dd125684@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=dd125684@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/dinez_30" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vaali_saran Instagram" style="margin-bottom:5px;"/>
+</a>
+
+</div>
+<br/>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
