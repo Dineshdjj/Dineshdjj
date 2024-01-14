@@ -1,4 +1,4 @@
-[![Social banner for SARAN-SMART-2004](https://github.com/SARAN-SMART-2004/SARAN-SMART-2004/blob/main/assets/Banner.jpeg)](https://saran-smart-2004.github.io/Personal-Portfolio/)
+[![Social banner forDineshdjj]()]
 <h1 align='center'> Hi! :wave:</h1>
 
 <!--Night Owl image-->
